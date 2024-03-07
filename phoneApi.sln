@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "phoneApi", "phoneApi\phoneApi.csproj", "{AED19115-D823-4878-B223-1036608CCC1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AED19115-D823-4878-B223-1036608CCC1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AED19115-D823-4878-B223-1036608CCC1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AED19115-D823-4878-B223-1036608CCC1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AED19115-D823-4878-B223-1036608CCC1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55C495D0-6CB6-4B58-8103-E108B0D57FC8}
+	EndGlobalSection
+EndGlobal
